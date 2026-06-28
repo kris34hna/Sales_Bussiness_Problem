@@ -63,7 +63,7 @@ Goal: Leverage 5 years of historical data to pinpoint growth levers and optimize
 
 ---
 
-✅ Results & Conclusion
+# Results & Conclusion
 
 The analysis successfully identified XYZ Co.'s key revenue and profit drivers across 5 years of sales data. Top products, high-margin channels, and dominant regions emerged as critical levers for growth. Regional disparity in performance highlights markets where focused investment could yield strong returns. The 2017 budget vs. actual comparison provides a reliable benchmark for future planning. These insights directly support strategic decisions around pricing, promotions, and market expansion — reducing concentration risk while optimizing profitability.
 
