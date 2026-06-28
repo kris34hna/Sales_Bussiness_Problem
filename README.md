@@ -71,6 +71,7 @@ The analysis successfully identified XYZ Co.'s key revenue and profit drivers ac
 
 # Author & Contact
 
+|    |      |
 |----|------|
 |Name | KRISHNA |
 |LinkedIn | https://www.linkedin.com/in/krishna-krishna-26a106231/ |
